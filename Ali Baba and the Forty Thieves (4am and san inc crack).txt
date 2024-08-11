@@ -1,0 +1,41 @@
+-----Ali Baba and the Forty Thieves----
+A 4am and san inc crack      2017-03-02
+---------------------------------------
+
+Name: Ali Baba and the Forty Thieves
+Genre: RPG
+Year: 1982
+Credits: Stuart Smith
+Publisher: Electronic Arts
+Platform: Apple ][+ or later
+Media: single-sided 5.25-inch floppy
+OS: custom
+
+This disk was automatically cracked by
+the development version of Passport
+(dated 2017-02-12).  Here is the
+transcript:
+
+                 --v--
+
+READING FROM S6,D1
+T00 FOUND ELECTRONIC ARTS BOOTLOADER
+USING DISK'S OWN RWTS
+WRITING TO S5,D2
+T06 FOUND EA PROTECTION TRACK
+T01,S06,$07: 01 -> 04
+T01,S0A,$5B: A7 -> 00
+T01,S0C,$CC: E1 -> E0
+CRACK COMPLETE.
+
+                 --^--
+
+More information and source code is
+available at
+https://archive.org/details/Passport4am
+
+Quod erat liberandum.
+
+---------------------------------------
+A 4am and san inc crack        No. 1037
+------------------EOF------------------
