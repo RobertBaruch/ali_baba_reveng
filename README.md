@@ -1,13 +1,17 @@
 # ali_baba_reveng
+> [!NOTE]
+> This is a work in progress.
+
 Reverse engineering of Ali Baba for the Apple II (1982)
 
 [main.pdf](main.pdf) is the literate programming document for this project. This means the explanatory text is interspersed with source code. The source code can be extracted from the document and compiled.
 
 The goal is to provide all the source code necessary to reproduce a binary identical to the one found on the Internet Archive's [Ali Baba and the Forty Thieves (4am and san inc crack).dsk](https://archive.org/details/AliBabaAndTheFortyThieves4amCrack) disk image.
+This may or may not be feasible, since there is Electronic Arts encryption that has to take place for that, and it's not really of interest.
 
 The assembly code is assembled using [`dasm`](https://dasm-assembler.github.io/).
 
-This document doesn't explain every last detail. It's assumed that the reader can find enough details on the 6502 processor and the Apple II series of computers to fill in the gaps.
+The document doesn't explain every last detail. It's assumed that the reader can find enough details on the 6502 processor and the Apple II series of computers to fill in the gaps.
 
 ## Useful 6502 and Apple II resources:
 
