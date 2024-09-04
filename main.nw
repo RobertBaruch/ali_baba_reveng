@@ -1632,6 +1632,11 @@ then [[splash_routine_0]] and calls [[set_splash_routine]] within [[note_played]
 After that, [[splash_screen_step]] presumably moves mobs around.
 
 
+When the user ends the splash screen, the [[start_splash_screen]] routine
+replaces the indirect jump to [[indirect_routine]] in [[start_sound]] to an
+absolute jump to [[next_table_entry]], since there is no further need to
+animate while playing sound.
+
 
 \chapter{The Z-image}
 
